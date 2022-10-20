@@ -1,0 +1,26 @@
+html {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+
+body {
+    background-color: #C89B7B;
+    color: #80475E;
+}
+
+h1 {
+    font-size: 250%;
+    text-align: center;
+    color: #34344A;
+    background-color: #CC5A71;
+}
+
+ul, ol {
+    list-style-type: circle;
+}
+
+#subheading{
+    font-size: 150%;
+    color: #34344A;
+}
